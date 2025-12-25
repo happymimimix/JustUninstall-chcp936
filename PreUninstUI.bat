@@ -1,3 +1,4 @@
+@chcp 936 >nul
 @echo off
 cd /d %SystemDrive%\$JustUninstall
 color 1f

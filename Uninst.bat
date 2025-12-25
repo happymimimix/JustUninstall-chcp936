@@ -1,3 +1,4 @@
+@chcp 936 >nul
 @echo off
 echo 请稍候，请勿关闭当前窗口
 cd /d %~dp0

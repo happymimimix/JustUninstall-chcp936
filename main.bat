@@ -1,3 +1,4 @@
+@chcp 936 >nul
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 

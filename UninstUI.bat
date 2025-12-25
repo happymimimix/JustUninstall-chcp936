@@ -1,3 +1,4 @@
+@chcp 936 >nul
 @echo off
 cd /d %~dp0
 mode con cols=160 lines=40
